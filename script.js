@@ -35,7 +35,7 @@ const aiCoursesData = [
     {title:"Artificial Intelligence Course", level:"Beginner", duration:"8 Weeks", price:"$1200", image:"artificial-intelligence-course.png"},
   {title:"Machine Learning Course", level:"Intermediate", duration:"10 Weeks", price:"$1500", image:"machine-learning-course.png"},
   {title:"AI Healthcare Course", level:"Advanced", duration:"12 Weeks", price:"$1800", image:"ai-healthcare-course.png"},
-  {title:"Generative AI Bootcamp", level:"Advanced", duration:"10 Weeks", price:"$2000", image:"https://images.unsplash.com/photo-1673187366195-b7d1bff8d3f4"},
+  {title:"Generative AI Bootcamp", level:"Advanced", duration:"10 Weeks", price:"$2000", image:"chatgpt-course.png"},
   {title:"Prompt Engineering", level:"Intermediate", duration:"6 Weeks", price:"$1100", image:"https://images.unsplash.com/photo-1518779578993-ec3579fee39f"},
   {title:"NLP Specialist", level:"Advanced", duration:"12 Weeks", price:"$1900", image:"https://images.unsplash.com/photo-1550751827-4bd374c3f58b"},
   {title:"AI for Business", level:"Beginner", duration:"8 Weeks", price:"$1300", image:"https://images.unsplash.com/photo-1551434678-e076c223a692"},
@@ -221,6 +221,7 @@ function createCard(course){
 
   </div>`;
 }
+
 
 
 
