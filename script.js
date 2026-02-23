@@ -38,7 +38,7 @@ const aiCoursesData = [
   {title:"ChatGpt Course", level:"Advanced", duration:"10 Weeks", price:"$2000", image:"chatgpt-course.png"},
   {title:"MLOps Course", level:"Intermediate", duration:"6 Weeks", price:"$1100", image:"mlops-course.png"},
   {title:"NLP Course", level:"Advanced", duration:"12 Weeks", price:"$1900", image:"nature-language-processing.png"},
-  {title:"AI for Business", level:"Beginner", duration:"8 Weeks", price:"$1300", image:"https://images.unsplash.com/photo-1551434678-e076c223a692"},
+  {title:"Agentic AI Course", level:"Beginner", duration:"8 Weeks", price:"$1300", image:"agentic-ai-course.png"},
   {title:"Computer Vision", level:"Advanced", duration:"10 Weeks", price:"$1700", image:"https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5"},
   {title:"AI Deployment", level:"Intermediate", duration:"9 Weeks", price:"$1600", image:"https://images.unsplash.com/photo-1519389950473-47ba0277781c"},
   {title:"AI Capstone Project", level:"Advanced", duration:"8 Weeks", price:"$2100", image:"https://images.unsplash.com/photo-1534751516642-a1af1ef26a56"}
@@ -221,6 +221,7 @@ function createCard(course){
 
   </div>`;
 }
+
 
 
 
