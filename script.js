@@ -33,7 +33,7 @@ answer.style.display=answer.style.display==="block"?"none":"block";
 
 const aiCoursesData = [
     {title:"Artificial Intelligence Course", level:"Beginner", duration:"8 Weeks", price:"$1200", image:"artificial-intelligence-course.png"},
-  {title:"Machine Learning Pro", level:"Intermediate", duration:"10 Weeks", price:"$1500", image:"machine-learning-course.png"},
+  {title:"Machine Learning Course", level:"Intermediate", duration:"10 Weeks", price:"$1500", image:"machine-learning-course.png"},
   {title:"Deep Learning Mastery", level:"Advanced", duration:"12 Weeks", price:"$1800", image:"https://images.unsplash.com/photo-1485827404703-89b55fcc595e"},
   {title:"Generative AI Bootcamp", level:"Advanced", duration:"10 Weeks", price:"$2000", image:"https://images.unsplash.com/photo-1673187366195-b7d1bff8d3f4"},
   {title:"Prompt Engineering", level:"Intermediate", duration:"6 Weeks", price:"$1100", image:"https://images.unsplash.com/photo-1518779578993-ec3579fee39f"},
@@ -221,4 +221,5 @@ function createCard(course){
 
   </div>`;
 }
+
 
