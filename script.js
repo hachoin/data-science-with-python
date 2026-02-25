@@ -48,17 +48,7 @@ const aiCoursesData = [
 const dsCoursesData = [
   {title:"Data Science with Python Course", level:"Beginner", duration:"8 Weeks", price:"$1000", image:"data-science-with-python-course.png"},
   {title:"Data Science with Python & ML Course", level:"Beginner", duration:"6 Weeks", price:"$900", image:"data-science-with-python-ML.png"},
-  {title:"SQL Mastery", level:"Intermediate", duration:"6 Weeks", price:"$950", image:"https://images.unsplash.com/photo-1544383835-bda2bc66a55d"},
-  {title:"Statistics for DS", level:"Intermediate", duration:"8 Weeks", price:"$1100", image:"https://images.unsplash.com/photo-1509228468518-180dd4864904"},
-  {title:"Data Visualization", level:"Beginner", duration:"6 Weeks", price:"$850", image:"https://images.unsplash.com/photo-1551288049-bebda4e38f71"},
-  {title:"Big Data Engineering", level:"Advanced", duration:"12 Weeks", price:"$1800", image:"https://images.unsplash.com/photo-1518770660439-4636190af475"},
-  {title:"Power BI Professional", level:"Intermediate", duration:"6 Weeks", price:"$1000", image:"https://images.unsplash.com/photo-1504384308090-c894fdcc538d"},
-  {title:"Tableau Expert", level:"Intermediate", duration:"6 Weeks", price:"$950", image:"https://images.unsplash.com/photo-1509228627152-72ae9ae6848d"},
-  {title:"Data Analytics Bootcamp", level:"Advanced", duration:"10 Weeks", price:"$1500", image:"https://images.unsplash.com/photo-1559027615-cd4628902d4a"},
-  {title:"ML for Data Science", level:"Advanced", duration:"12 Weeks", price:"$1700", image:"https://images.unsplash.com/photo-1516117172878-fd2c41f4a759"},
-  {title:"Cloud Data Engineering", level:"Advanced", duration:"12 Weeks", price:"$2000", image:"https://images.unsplash.com/photo-1542744173-8e7e53415bb0"},
-  {title:"Data Warehousing", level:"Intermediate", duration:"8 Weeks", price:"$1200", image:"https://images.unsplash.com/photo-1556761175-4b46a572b786"},
-  {title:"Capstone Project DS", level:"Advanced", duration:"8 Weeks", price:"$2200", image:"https://images.unsplash.com/photo-1504384308090-c894fdcc538d"}
+
 
 ];
 
@@ -221,6 +211,7 @@ function createCard(course){
 
   </div>`;
 }
+
 
 
 
