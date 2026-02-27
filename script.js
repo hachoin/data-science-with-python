@@ -66,7 +66,7 @@ function createCard(course){
         <span>${course.duration}</span>
         <span class="price">${course.price}</span>
       </div>
-      <a href="#" class="btn">Enroll Now</a>
+      <a href="#faq" class="btn">Start now – get 10% off!</a>
     </div>
   </div>`;
 }
@@ -212,6 +212,7 @@ function createCard(course){
 
   </div>`;
 }
+
 
 
 
