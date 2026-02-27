@@ -964,7 +964,8 @@ body{
   padding:4px 10px;
   border-radius:20px;
   font-size:12px;
-  color:#fff;
+  color: #ffffff;
+  background-color: #09440b;
 }
 
 .badge.beginner{background:#16a34a;}
@@ -990,3 +991,4 @@ body{
 .btn:hover{
   background:#1e40af;
 }
+
